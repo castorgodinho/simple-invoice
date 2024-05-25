@@ -15,7 +15,7 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="en">
-			<body className={inter.className}>asd {children}</body>
+			<body className={inter.className}>12312 {children}</body>
 		</html>
 	);
 }
