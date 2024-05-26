@@ -6,6 +6,7 @@ import styled from 'styled-components';
 export const Navbar = () => (
 	<S.Container>
 		<Text>Home</Text>
+		<Text>About</Text>
 	</S.Container>
 );
 
